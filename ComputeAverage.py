@@ -6,3 +6,4 @@ num3 = eval(input("give me the num3"))
 average = (num1 + num2 + num3)/3
 
 print("the average is ", average)
+print("you are my hero")
